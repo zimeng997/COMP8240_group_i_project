@@ -1,4 +1,4 @@
-# COMP8240_group_i_project
+# data process
 #### Data: Male and female faces dataset
 https://www.kaggle.com/ashwingupta3012/male-and-female-faces-dataset?
 #### Step 0: Download data 'Male and female faces dataset'
